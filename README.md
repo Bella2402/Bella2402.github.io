@@ -11,7 +11,7 @@
   <h3>Article</h3>
   <p>Qui puoi inserire il testo del tuo articolo.</p>
   <img src="https://www.historyhit.com/app/uploads/fly-images/5158910/ROH-1-788x537.jpg?x50601" alt="Royal Opera House" width="
-320" height="250">
+320" height="250" align-items: center; justify-content: center;>
 
   <h3>Report</h3>
   <p>Qui puoi inserire il testo del tuo report.</p>
