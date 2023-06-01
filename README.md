@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Two Girls on a Stage</title>
+
   <style>
   <body style="background-color:ivory;">
   
