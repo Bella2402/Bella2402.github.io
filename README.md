@@ -1,3 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Two Girls on a Stage</title>
+  <style>
+    body {
+      background-color: #FFF8DC; /* Codice colore per lo sfondo giallo pastello */
+    }
+  </style>
+</head>
+<body>
+  <h1>Two Girls on a Stage</h1>
+  <h2>Come discover with us all the ins and outs about theatres</h2>
+
+  <h3>Article</h3>
+  <p>Qui puoi inserire il testo del tuo articolo.</p>
+  <img src="percorso_della_tua_immagine.jpg" alt="Royal Opera House">
+
+  <h3>Report</h3>
+  <p>Qui puoi inserire il testo del tuo report.</p>
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Bella2402.github.io
 <html>
 <head>
