@@ -2,7 +2,7 @@
 <html>
 <head>
 
-  <style>
+
   <body style="background-color:ivory;">
   
   <h1>Two Girls on a Stage</h1>
