@@ -8,7 +8,7 @@
   <h1>Two Girls on a Stage</h1>
   <h2>Come discover with us all the ins and outs about theatres</h2>
 
- <p><i> style="font-family:century;">Hi there! Ready to know all about theaters in the UK? By exploring our project, you will be immerged in the world of theatres and will get to deepen your knowledge about these incredible museums of music, as we like to consider them. Did I forget to say? This project was carried on by two students who are extremely passionate about theatres: Eleonora and Isabella who will thank you on a unforgettable journey! </p></i> 
+ <p><i>style="font-family:century; ">Hi there! Ready to know all about theaters in the UK? By exploring our project, you will be immerged in the world of theatres and will get to deepen your knowledge about these incredible museums of music, as we like to consider them. Did I forget to say? This project was carried on by two students who are extremely passionate about theatres: Eleonora and Isabella who will thank you on a unforgettable journey! </p></i> 
   <p>.</p>
     <img style="photo-align:center;" src="https://www.historyhit.com/app/uploads/fly-images/5158910/ROH-1-788x537.jpg?x50601" alt="google.com" width="
 320" height="250">
