@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Two girls on a stage</title>
+<title> Two girls on a stage </title>
 </head>
 <style>
 body {
