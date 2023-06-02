@@ -24,7 +24,7 @@ header {
 
 /* Create two columns/boxes that floats next to each other */
 nav {
-  float: left;
+  float: right;
   width: 70%;
   height: 1500px; /* only for demonstration, should be removed */
   background: powderblue;
