@@ -36,8 +36,8 @@ If you ever feel worried about whether you’ll find a seat for a last-minute co
 
 <p><a href="https://projects.dharc.unibo.it/melody/1685548733.710874/theatres_in_the_uk">Visit our story on Melody here!</a></p>
   
- </ul>
-  </nav>
+
+ 
 <footer>
   <p>
   All rights reseved to Eleonora and Isabella's project.</p>
