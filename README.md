@@ -20,8 +20,8 @@ p {
 </style>
 
 
-<h1> Six girls on a stage </h1>
-<h3> Come discover with us all the ins and outs about theatres and classical music</h3>
+<h1> 6 girls on a stage </h1>
+<h3> introduction </h3>
 
 <h2> Theatres in the UK and classical music: a love story </h2>
 <h3> Come discover with us all the ins and outs about theatres and classical music </h3>
@@ -43,7 +43,7 @@ p {
  
 <footer>
   <p>
-  All rights reseved to Eleonora and Isabella's project.</p>
+  All rights reseved to the 6girls's project.</p>
 </footer>
 
 
