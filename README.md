@@ -20,7 +20,7 @@ p {
 </style>
 
 
-<h1> 6 girls on a stage </h1>
+<h1> <i> 6 girls on a stage </i></h1>
 <h3> introduction </h3>
 
 <h2> Theatres in the UK and classical music: a love story </h2>
