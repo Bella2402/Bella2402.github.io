@@ -23,7 +23,7 @@ header {
 }
 
 nav {
-  float: right;
+  float: down;
   width: 1000%;
   height: 1500px; /* only for demonstration, should be removed */
   background: powderblue;
