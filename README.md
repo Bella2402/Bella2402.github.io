@@ -33,7 +33,7 @@ nav {
   padding: 40px;
 }
 
-<h1>Two girls on a Stage</h1>
+<h1 style: textalign: center >Two girls on a Stage</h1>
 <h2> Come discover with us all the ins and outs about theatres</h2>
 <p> <i> Hi there! Ready to know all about theaters in the UK? By exploring our project, you will be immerged in the world of theatres and will get to deepen your knowledge about these incredible museums of music, as we like to consider them. Did I forget to say? This project was carried out by two students who are extremely passionate about theatres: Eleonora and Isabella who will take you on a unforgettable journey! </p> </i> 
 
