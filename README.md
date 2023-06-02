@@ -5,7 +5,7 @@
 </head>
 <style>
 body {
-  background-color: peachpuff;
+  background-color: ivory;
 }
 
 h1 {
