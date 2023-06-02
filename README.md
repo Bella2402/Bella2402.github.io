@@ -41,9 +41,8 @@
 </head>
 <body style="background-color:ivory;">
 
-<b><h1 style="color:pink;text-align:center;font-family:century;" ">Bella in Bordeaux </h1><b>
 
-<i>By your favorite Italian blogger <i>
+<i> By your favorite Italian blogger <i>
 
 <h2 style="color:salmon;text-align:center;font-family:century;">Have you ever dreamed about going on Erasmus? Have you ever dreamed of living in France? Under my guide, all of your dreams can come true.</h2>
 
