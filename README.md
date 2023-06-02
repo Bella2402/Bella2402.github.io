@@ -21,7 +21,7 @@ p {
 
 
 <h1> Six girls on a stage </h1>
-<h2> Come discover with us all the ins and outs about theatres and classical music</h2>
+<h3> Come discover with us all the ins and outs about theatres and classical music</h3>
 
 <h2> Theatres in the UK and classical music: a love story </h2>
 <h3> Come discover with us all the ins and outs about theatres and classical music </h3>
