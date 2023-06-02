@@ -22,7 +22,6 @@ header {
   color: white;
 }
 
-/* Create two boxes that floats next to each other */
 nav {
   float: right;
   width: 70%;
