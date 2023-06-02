@@ -1,8 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title> Two girls on a stage </title>
-</head>
 <style>
 body {
   background-color: ivory;
@@ -23,15 +18,7 @@ p {
   font-size: 20px;
 }
 </style>
-</head>
 
-nav {
-  float: down;
-  width: 1000%;
-  height: 1500px; /* only for demonstration, should be removed */
-  background: powderblue;
-  padding: 40px;
-}
 
 <h1>Two girls on a stage</h1>
 <h2> Come discover with us all the ins and outs about theatres and classical music</h2>
