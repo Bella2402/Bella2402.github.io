@@ -26,9 +26,9 @@ header {
 nav {
   float: left;
   width: 30%;
-  height: 300px; /* only for demonstration, should be removed */
+  height: 1500px; /* only for demonstration, should be removed */
   background: powderblue;
-  padding: 20px;
+  padding: 40px;
 }
 
 /* Style the list inside the menu */
@@ -40,9 +40,9 @@ nav ul {
 article {
   float: left;
   padding: 20px;
-  width: 70%;
+  width: 90%;
   background-color: papayawhip;
-  height: 300px; /* only for demonstration, should be removed */
+  height: 1500px; /* only for demonstration, should be removed */
 }
 
 /* Clear floats after the columns */
