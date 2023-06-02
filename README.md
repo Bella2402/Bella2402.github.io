@@ -38,7 +38,7 @@ nav ul {
 }
 
 article {
-  float: left;
+  float: right;
   padding: 50px;
   width: 90%;
   background-color: papayawhip;
