@@ -37,7 +37,7 @@
 # Bella2402.github.io
 <html>
 <head>
-<title> Il blog di Bella </title>
+
 </head>
 <body style="background-color:ivory;">
 
