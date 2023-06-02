@@ -22,7 +22,7 @@ header {
   color: white;
 }
 
-/* Create two columns/boxes that floats next to each other */
+/* Create two boxes that floats next to each other */
 nav {
   float: right;
   width: 70%;
@@ -42,7 +42,7 @@ article {
   padding: 50px;
   width: 90%;
   background-color: papayawhip;
-  height: 1500px; /* only for demonstration, should be removed */
+  height: 1500px; 
 }
 
 /* Clear floats after the columns */
