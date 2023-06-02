@@ -15,12 +15,12 @@ h2 {
 }
 p {
   font-family: verdana;
-  font-size: 20px;
+  font-size: 15px;
 }
 </style>
 
 
-<h1>Two girls on a stage</h1>
+<h1> Two girls on a stage </h1>
 <h2> Come discover with us all the ins and outs about theatres and classical music</h2>
 <p> <i> Hi there! Ready to know all about theaters in the UK and classical musiic? By exploring our project, you will be immerged in the world of theatres and will get to deepen your knowledge about these incredible museums of music, as we like to consider them. Did I forget to say? This project was carried out by two students who are extremely passionate about theatres: Eleonora and Isabella who will take you on a unforgettable journey! </p> </i> 
 
@@ -35,8 +35,6 @@ If you ever feel worried about whether you’ll find a seat for a last-minute co
   <p>Qui puoi inserire il testo del tuo report.</p>
 
 <p><a href="https://projects.dharc.unibo.it/melody/1685548733.710874/theatres_in_the_uk">Visit our story on Melody here!</a></p>
-  
-
  
 <footer>
   <p>
