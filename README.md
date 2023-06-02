@@ -25,10 +25,10 @@ p {
 
 <h2> Theatres in the UK and classical music: a love story </h2>
 <h3> Come discover with us all the ins and outs about theatres and classical music </h3>
-<p><b><i> Hi there! Ready to know all about theaters in the UK and classical music? By exploring our project, you will be immerged in the world of theatres and will get to deepen your knowledge about these incredible museums of music, as we like to consider them. Did I forget to say? This project was carried out by two students who are extremely passionate about theatres: Eleonora and Isabella who will take you on a unforgettable journey! </b></i>
+<p><b><i> Hi there! Ready to know all about theaters in the UK and classical music? By exploring our project, you will be immerged in the world of theatres and will get to deepen your knowledge about these incredible museums of music, as we like to consider them. Did I forget to say? This project was carried out by two students who are extremely passionate about theatres: Eleonora and Isabella who will take you on a unforgettable journey! </b></i> </p>
 
-<img style="image-align:center;" src="https://www.historyhit.com/app/uploads/fly-images/5158910/ROH-1-788x537.jpg?x50601" alt="google.com" width="
-320" height="250">
+ <p><img style="image-align:center;" src="https://www.historyhit.com/app/uploads/fly-images/5158910/ROH-1-788x537.jpg?x50601" alt="google.com" width="
+320" height="250"> </p>
 
   <p>We have always wondered: what is it that makes UK theatres so fascinating? Come find it out with us. Firstly, we researched the number of theatres in UK and in London to get a concrete overview on how popular they are in the Anglo-Saxon world. However, nothing’s better than getting to see clearly on a zoomable map where these theatres are located exactly. Thus, if you ever feel like going on a trip to the UK, don’t forget to check them out. Our extensive research proceeded with a visual hint on what the theatres in the UK look like. We believe, in fact, that the beauty of a theatre not only resides in the music created inside but also on the breath-taking architectural appearance one can appreciate from the outside. You will realize, through navigating the table on Melody, that UK showcases theatres from all the kind of architectural styles one can imagine. Victorian Theatres, Art Deco, Brutalist and Modernist are just some examples that can be found in this beautiful country. </p>
   
