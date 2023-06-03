@@ -85,14 +85,14 @@
   </div>
 
   <h2><em>A story written by Isabella Porrovecchio and Eleonora Pellegrini</em></h2>
-  <p class="small-italic">A small italicized paragraph</p>
+  <p class="small-italic">Come discover all the ins and outs about theatres and classical music in the UK! By following this guide there will be no mysteries left out for you about these incredible museums of music, as we like to call them. Did I forget to say? This research was carried out by two students who are fond of theatres and classical music, and who will be delighted to take you on this illuminating journey with them!  </p>
 
   <div class="article">
     <div class="article-text">
-      <p>Insert your article here...</p>
+      <p>We have always wondered: what is it that makes UK theatres so fascinating? Come find it out with us. Firstly, we researched the number of theatres in UK and in London to get a concrete overview on how popular they are in the Anglo-Saxon world. However, nothing’s better than getting to see clearly on a zoomable map where these theatres are located exactly. Thus, if you ever feel like going on a trip to the UK, don’t forget to check them out. Our extensive research proceeded with a visual hint on what the theatres in the UK look like. We believe, in fact, that the beauty of a theatre not only resides in the music created inside but also on the breath-taking architectural appearance one can appreciate from the outside. You will realize, through navigating the table on Melody, that UK showcases theatres from all the kind of architectural styles one can imagine. Victorian Theatres, Art Deco, Brutalist and Modernist are just some examples that can be found in this beautiful country. </p>
     </div>
     <div class="article-image">
-      <img src="path_to_your_image.jpg" alt="Article Image">
+      <img src="[path_to_your_image.jpg](https://www.artdictionmagazine.com/wp-content/uploads/2020/02/AdobeStock_287272673-website.jpg)" alt="Article Image">
     </div>
   </div>
 
