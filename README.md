@@ -77,6 +77,13 @@
       font-size: 14px;
       font-family: 'Times New Roman', serif;
     }
+
+    .white-box {
+      background-color: #FFF;
+      border: 1px solid #DDD;
+      padding: 20px;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    }
   </style>
 </head>
 <body>
@@ -85,7 +92,8 @@
   </div>
 
   <h2><em>A story written by Isabella Porrovecchio and Eleonora Pellegrini</em></h2>
-  <p class="small-italic">Come discover all the ins and outs about theatres and classical music in the UK! By following this guide there will be no mysteries left out for you about these incredible museums of music, as we like to call them. Did I forget to say? This research was carried out by two students who are fond of theatres and classical music, and who will be delighted to take you on this illuminating journey with them!  </p>
+  <p class="small-italic">Come discover all the ins and outs about theatres and classical music in the UK! By following this guide there will be no mysteries left out for you about these incredible museums of music, as we like to call them. Did I forget to say? This research was carried out by two students who are fond of theatres and classical music, and who will be delighted to take you on this illuminating journey with them!</p>
+
 
   <div class="article">
     <div class="article-text">
@@ -96,8 +104,8 @@
     </div>
   </div>
 
-  <div class="section">
-    <p>If you ever feel worried about whether you’ll find a seat for a last-minute concert, we have got you covered. In our nicely illustrated bar chart, you will be able to understand the capacity of UK’s theatres that shows the number of theatres that have a certain amount of seats from the one that can host the greatest audience to the tiniest ones. But to give you some more of the real data, an interesting table showing the inauguration year of the oldest theatres in the UK can be found. We personally advice you to check the iconic Globe Theatre out if you haven’t yet. Did you know that it was there that Shakespeare and his recital company used to act? Well, if you didn’t, do not worry, you can still go see some his most famous plays as they are on scene pretty much every week. Finally, moving towards the end of our recollection of information about theatres in the United Kingdom, you will encounter some names that might not instantly ring a bell to you, but they are actually some of the well-known composers from UK. As classical music is the most played genre in theatres, we thought one could also positively value some information about classical music composers who were born in the UK, and whose music was obviously played in UK theatres. If you’re starting to get more interested in classical music, you can visualize on our chart the main types of classical music with a nice description that explains them all. And of course, we couldn’t leave you without a nicely catalogue of classical compositions featuring influential figures of classical music such as Bach. Now, are you ready to explore?</p>
+  <div class="white-box">
+    <p style="font-family: 'Times New Roman', serif;" >If you ever feel worried about whether you’ll find a seat for a last-minute concert, we have got you covered. In our nicely illustrated bar chart, you will be able to understand the capacity of UK’s theatres that shows the number of theatres that have a certain amount of seats from the one that can host the greatest audience to the tiniest ones. But to give you some more of the real data, an interesting table showing the inauguration year of the oldest theatres in the UK can be found. We personally advice you to check the iconic Globe Theatre out if you haven’t yet. Did you know that it was there that Shakespeare and his recital company used to act? Well, if you didn’t, do not worry, you can still go see some his most famous plays as they are on scene pretty much every week. Finally, moving towards the end of our recollection of information about theatres in the United Kingdom, you will encounter some names that might not instantly ring a bell to you, but they are actually some of the well-known composers from UK. As classical music is the most played genre in theatres, we thought one could also positively value some information about classical music composers who were born in the UK, and whose music was obviously played in UK theatres. If you’re starting to get more interested in classical music, you can visualize on our chart the main types of classical music with a nice description that explains them all. And of course, we couldn’t leave you without a nicely catalogue of classical compositions featuring influential figures of classical music such as Bach. Now, are you ready to explore?</p>
   </div>
   
   <a href="https://melody-data.github.io/stories/published_stories/story_1685701970.977932.html">Click here to see our story on Melody!</a>
