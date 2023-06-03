@@ -93,7 +93,7 @@ body {
       display: flex;
       justify-content: center;
       margin-top: 22px;
-      border: 1px solid #FFF;
+      border: 1px solid #DDD;
       padding: 8px;
       background-color: #F8F8F8;
     }
