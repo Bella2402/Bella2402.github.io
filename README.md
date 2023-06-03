@@ -130,10 +130,10 @@ footer {
 
 <div class="topnav">
   <a href="https://giuliam2.github.io/">Home</a>
-  <a href="https://bella2402.github.io">Theater</a>
+  <a class="active" href="https://bella2402.github.io">Theater</a>
   <a href="file:///C:/Users/giuli/Desktop/UNIBO/informatica/progetto/1.%20Storia%20Rock.htm">Rock Music</a>
   <a href="#Guitars">Guitars</a>
-  <a class="active" href="#Our Report">Our Reports</a>
+  <a href="https://giuliam2.github.io/Reports/">Our Reports</a>
 </div>
 
 
@@ -172,7 +172,7 @@ footer {
 <br>
 <br>
 <footer>
-  <p>All rights reseved to the 6girls's project.</p>
+  <p>All rights reserved to the 6girlsonstage's project.</p>
 </footer>
 
 </body>
