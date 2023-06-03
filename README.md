@@ -95,7 +95,7 @@ body {
       margin-top: 22px;
       border: 1px solid #DDD;
       padding: 8px;
-      background-color: #F8F8F8;
+      background-color: #FFF;
     }
 
     .section-image img {
@@ -169,7 +169,8 @@ footer {
       <img src="melody2.jpg" alt="Image 2" width="400" height="240"/> </a>
     </div>
   </div>
-
+<br>
+<br>
 <footer>
   <p>All rights reseved to the 6girls's project.</p>
 </footer>
