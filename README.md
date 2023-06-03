@@ -114,7 +114,7 @@
   <div class="section">
     <div class="section-image">
       <a href="https://melody-data.github.io/stories/published_stories/story_1685548733.710874.html">
-    <img src="" alt="Descrizione dell'immagine"width="300" height="142" />
+    <img src="melody.jpg" alt="Descrizione dell'immagine"width="300" height="142" />
   </a>
       <img src=">" alt="Image 1">
       <img src="path_to_image2.jpg" alt="Image 2">
