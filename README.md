@@ -59,7 +59,7 @@ body {
     }
 
     h2 {
-      color: #990a00;
+      color: #990a99;
       font-family: 'Playfair Display', serif;
       font-size: 20px;
       margin-top: 10px;
