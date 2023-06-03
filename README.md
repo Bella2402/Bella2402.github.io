@@ -11,7 +11,7 @@ body {
 
 .topnav {
   overflow: hidden;
-  background-color: #;
+  background-color: #990a00;
 }
 
 .topnav a {
@@ -92,10 +92,10 @@ body {
     .section-image {
       display: flex;
       justify-content: center;
-      margin-top: 20px;
-      border: 1px solid #8BC34A;
-      padding: 10px;
-      background-color: ivory;
+      margin-top: 22px;
+      border: 1px solid #FFF;
+      padding: 8px;
+      background-color: white;
     }
 
     .section-image img {
