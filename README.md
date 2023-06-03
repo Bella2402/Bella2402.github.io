@@ -38,7 +38,7 @@ body {
 
     body {
       font-family: Arial, sans-serif;
-      background-color: #F1F7FB;
+      background-color: white;
       color: #333;
       margin: 0;
       padding: 20px;
