@@ -2,6 +2,37 @@
 <html>
 <head>
   <title>Theatres in the UK and classical music: a love story</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #;
+}
+
+.topnav a {
+  float: left;
+  color: #;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #FF80AB;
+  color: white;
+}
+</style>
   <style>
     @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&display=swap');
 
@@ -84,9 +115,28 @@
       padding: 20px;
       box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     }
+
+/* Style the footer */
+footer {
+  background-color: #FF80AB;
+  padding: 10px;
+  text-align: left;
+  color: white;
+}
+
   </style>
 </head>
 <body>
+
+<div class="topnav">
+  <a class="active" href="#home">Home</a>
+  <a href="https://bella2402.github.io">Theater</a>
+  <a href="file:///C:/Users/giuli/Desktop/UNIBO/informatica/progetto/1.%20Storia%20Rock.htm">Rock Music</a>
+  <a href="#Guitars">Guitars</a>
+  <a href="#Our Report">Our Reports</a>
+</div>
+
+
   <div class="title-box">
     <h1>Theatres in the UK and classical music: a love story</h1>
   </div>
@@ -113,13 +163,17 @@
 
   <div class="section">
     <div class="section-image">
-      <a href="https://melody-data.github.io/stories/published_stories/story_1685548733.710874.html">
+    <a href="https://melody-data.github.io/stories/published_stories/story_1685548733.710874.html">
     <img src="melody.jpg" alt="Descrizione dell'immagine"width="300" height="142" />
   </a>
-      <img src=">" alt="Image 1">
+      <img src="melody.jpg" alt="Image 1">
       <img src="path_to_image2.jpg" alt="Image 2">
     </div>
   </div>
+
+<footer>
+  <p>All rights reseved to the 6girls's project.</p>
+</footer>
+
 </body>
 </html>
-
