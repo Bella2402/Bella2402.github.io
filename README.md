@@ -100,9 +100,8 @@
     <p>Insert another paragraph here...</p>
   </div>
   
-  <a href="https://melody-data.github.io/stories/published_stories/story_1685701970.977932.html">Click here to see our story on Melody!</a></li>
+  <a href="https://melody-data.github.io/stories/published_stories/story_1685701970.977932.html">Click here to see our story on Melody!</a>
       <img src="smiley.gif" alt="HTML tutorial" style="width:42px;height:42px;">
-</a>
 
 
   <div class="section">
