@@ -45,7 +45,7 @@ body {
     }
 
     .title-box {
-      background-color: #FF80AB;
+      background-color: #990a99;
       padding: 10px;
       margin-bottom: 20px;
       text-align: center;
