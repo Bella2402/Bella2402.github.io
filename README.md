@@ -113,7 +113,7 @@
 
   <div class="section">
     <div class="section-image">
-      <img src="path_to_image1.jpg" alt="Image 1">
+      <img src="(https://github.com/Bella2402/Bella2402.github.io/assets/133987058/338fa4dc-a850-426b-ad95-d912d2b2bcd8)" alt="Image 1">
       <img src="path_to_image2.jpg" alt="Image 2">
     </div>
   </div>
