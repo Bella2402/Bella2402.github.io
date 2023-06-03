@@ -45,7 +45,7 @@ body {
     }
 
     .title-box {
-      background-color: #990a99;
+      background-color: #990a00;
       padding: 10px;
       margin-bottom: 20px;
       text-align: center;
@@ -59,7 +59,7 @@ body {
     }
 
     h2 {
-      color: #990a99;
+      color: #990a00;
       font-family: 'Playfair Display', serif;
       font-size: 20px;
       margin-top: 10px;
