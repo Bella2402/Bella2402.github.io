@@ -29,7 +29,7 @@ body {
 }
 
 .topnav a.active {
-  background-color: #FF80AB;
+  background-color: #990a00;
   color: white;
 }
 </style>
@@ -59,7 +59,7 @@ body {
     }
 
     h2 {
-      color: #FF4081;
+      color: #990a00;
       font-family: 'Playfair Display', serif;
       font-size: 20px;
       margin-top: 10px;
@@ -118,7 +118,7 @@ body {
 
 /* Style the footer */
 footer {
-  background-color: #FF80AB;
+  background-color: #990a00;
   padding: 10px;
   text-align: left;
   color: white;
