@@ -113,7 +113,7 @@
 
   <div class="section">
     <div class="section-image">
-      <img src="melody.jpg" alt="Image 1">
+      <img src="https://quickchart.io/chart?c=%7Btype:%22doughnut%22,%20data:%7Blabels:%5Bundefined%5D,datasets:%5B%7Blabel:%22data%22,%20data:%5B%5D%7D%5D%7D%7D">" alt="Image 1">
       <img src="path_to_image2.jpg" alt="Image 2">
     </div>
   </div>
