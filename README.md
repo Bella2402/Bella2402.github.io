@@ -95,7 +95,7 @@ body {
       margin-top: 20px;
       border: 1px solid #8BC34A;
       padding: 10px;
-      background-color: #E0EDE5;
+      background-color: ivory;
     }
 
     .section-image img {
