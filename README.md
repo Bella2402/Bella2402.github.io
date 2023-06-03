@@ -164,7 +164,7 @@ footer {
   <div class="section">
     <div class="section-image">
     <a href="https://melody-data.github.io/stories/published_stories/story_1685548733.710874.html">
-       <img src="melody.jpg" alt="Image 1" width="250" height="140"/>
+       <img src="melody.jpg" alt="Image 1" width="350" height="240"/>
   
       <img src="melody2.jpg" alt="Image 2"> </a>
     </div>
