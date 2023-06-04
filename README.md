@@ -15,7 +15,7 @@ body {
 
 .topnav a {
   float: left;
-  color: #;
+  color: black;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -166,7 +166,7 @@ footer {
     </div>
   </div>
 <br>
-  <a href="https://melody-data.github.io/stories/published_stories/story_1685701970.977932.html">Click here to see our story on Melody!</a>
+  <a href="https://melody-data.github.io/stories/published_stories/story_1685701970.977932.html"> <span style="color:black"> Click here to see our story on Melody!</a>
   
 <br>
 <br>
