@@ -166,7 +166,7 @@ footer {
     </div>
   </div>
 <br>
-  <a href="https://melody-data.github.io/stories/published_stories/story_1685701970.977932.html"> <span style="color:black"> Click here to see our story on Melody!</a>
+  <a href="https://melody-data.github.io/stories/published_stories/story_1685701970.977932.html"> <span style="color:black"> <b> Click here to see our story on Melody! </b> </a>
   
 <br>
 <br>
