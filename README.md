@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
   <title>Theatres in the UK and classical music: a love story</title>
@@ -130,7 +129,7 @@ footer {
 
 <div class="topnav">
   <a href="https://giuliam2.github.io/6-Girls-on-a-stage-home/">Home</a>
-  <a class="active" href="https://bella2402.github.io/Theatres-in-the-UK-and-Classical-Music/">Theater</a>
+  <a class="active" href="https://bella2402.github.io/Theatres-in-the-UK-and-Classical-Music/">Theatre</a>
   <a href="https://giuliam2.github.io/Exploring-the-rock-music-genre/">Rock Music</a>
   <a href="https://bella2402.github.io/The-History-of-the-Guitar/">Guitars</a>
   <a href="https://giuliam2.github.io/Reports/">Our Reports</a>
